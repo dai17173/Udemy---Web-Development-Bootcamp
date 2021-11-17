@@ -1,1 +1,1 @@
-This repository contains my exercises from Udemy course.
+Practise 1
