@@ -1,2 +1,1 @@
-Practise 1,
-URL of site: https://dai17173.github.io/Udemy-WebSite1/
+Practise 1
